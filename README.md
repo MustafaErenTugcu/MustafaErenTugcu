@@ -1,4 +1,4 @@
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=MustafaErenTugcu&show_icons=true&theme=radical)
+
 
 ![](https://tenor.com/tr/search/mojo-jojo-gifs)
 
