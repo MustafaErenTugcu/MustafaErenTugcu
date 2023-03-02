@@ -2,6 +2,9 @@
 
 ![](https://tenor.com/tr/search/mojo-jojo-gifs)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merentugcu&show_icons=true&theme=tokyonight)
+
 Hello, I'm Mustafa Eren Tugcu. I am a 2nd year computer engineering student at Manisa Celal Bayar University. I am developing myself, especially AI and ML. I am open to learning and I follow new technologies closely. I am currently actively learning Python. Even though I have added a lot to myself since I first started the software, there are still many things that I do not know and my biggest passion at the moment is to research, learn and apply these subjects.
 
 Skills: Java / Pyhton / SQL / MYSQL 
