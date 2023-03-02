@@ -12,10 +12,10 @@ Skills: Java / Pyhton / SQL / MYSQL
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/beyza-sungar-101853249/">
+  <a href="https://www.linkedin.com/in/mustafa-eren-tu%C4%9Fcu-6aa26a252/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
   
- <a href="https://www.instagram.com/sungarbeyza/">
+ <a href="https://www.instagram.com/eren__tugcu/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
