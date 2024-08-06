@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Hello, I'm Mustafa Eren Tugcu. I am a 4rd year computer engineering student at Manisa Celal Bayar University. I am developing myself, especially AI and ML. I am open to learning and I follow new technologies closely. I am currently actively learning Python. Even though I have added a lot to myself since I first started the software, there are still many things that I do not know and my biggest passion at the moment is to research, learn and apply these subjects.</h4>
+<h4 align="left">Hello, I'm Mustafa Eren Tugcu. I am a 4th year computer engineering student at Manisa Celal Bayar University. I am developing myself, especially AI and ML. I am open to learning and I follow new technologies closely. I am currently actively learning Python. Even though I have added a lot to myself since I first started the software, there are still many things that I do not know and my biggest passion at the moment is to research, learn and apply these subjects.</h4>
 
 ###
 
